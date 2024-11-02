@@ -14,3 +14,5 @@ How to Use
 
 Clone the repository: git clone https://github.com/yourusername/simple-login-register-website.git
 Open index.html in your web browser to view the application.
+
+![image alt](https://github.com/M-tech-cmd/Simple-Login-Register-Website/blob/226fc4c20f84209d4276fd5074d4d2b3c82cef83/Screenshot_-.jpeg)
